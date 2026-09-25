@@ -271,3 +271,9 @@ ROAS across Google Ads, Meta Ads, and TikTok Ads. However, platform-level
 budget decisions should not rely on average ROAS alone and should also
 consider factors such as sample size, campaign variation, CPA, conversions,
 revenue, and outliers.
+
+## 👤 Author
+**Ravi Kumar Gupta**  
+📍 Delhi, India  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
